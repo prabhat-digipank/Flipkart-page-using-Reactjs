@@ -1,0 +1,153 @@
+.bigcontainer{
+    
+    display: flex;
+    height: 10px;
+}
+.sidegrid{
+    display: grid;
+    
+    background-color:whitesmoke;
+    width: 280px;
+    height: 850px;
+    
+    margin: 5px;
+    margin-left: 10px;
+}
+.sideheader1{
+    margin: 10px;
+    margin-bottom: 10px;
+}
+.sideheader2{
+    margin: 5px;
+}
+.sideheader3{
+    margin-left:10px;
+}
+.sideheader3>span{
+    margin: -4px;
+}
+.sideheader4{
+    margin: 10px;
+    margin-left: 33px;
+}
+.sideheader5{
+    margin: px;
+    margin-left: 20px;
+}
+.sideheader6{
+    margin: 30px;
+    margin-top:9px;
+    padding: auto;
+}
+.sideheader6>button{
+border: none;
+outline: none;
+width: 6vw;
+color: rgb(18, 18, 19);
+font-weight: bold;
+font-size: 15px;
+cursor: pointer;
+padding: 5px;
+
+}
+.sideheader7{
+    margin: 10px;
+}
+.sideheader9{
+    margin: 8px;
+}
+.sideheader10{
+    border: none;
+    outline: none;
+    width: 32vw;
+    padding: px 15px;
+    border-radius: 3px;
+}
+
+
+.rightgrid{
+    
+    width:1850px;
+    height: 75px;
+    background-color:white;
+    margin: 5px;
+}
+.rightgrid1{
+    color: slategrey;
+    padding: 10px;
+    height: 0px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    
+}
+.rightgrid2{
+    display: flex;
+    background-color: white;
+    height: 20px;
+    align-items: center;
+    margin:5px;
+    padding: 2px;
+    border: rgb(221, 221, 216);
+}
+.rightgrid3{
+    display: flex;
+    background-color: rgb(243, 245, 237);
+    margin: 5px;
+    justify-content:space-evenly;
+    padding-right: 900px;
+}
+.image{
+    margin: 25px;
+    display: flex;
+    padding-left: 30px;
+    background-color: rgb(250, 252, 247);
+    height: 230px;
+    width: 1450px;
+}
+.text1>span{
+    padding-right: 80px;
+}
+.text1{
+    padding-left: 80px;
+}
+.text2{
+    padding-left: 50px;
+}
+
+.image2{
+    margin: 25px;
+    display: flex;
+    padding-left: 30px;
+    background-color: rgb(241, 241, 239);
+    height: 230px;
+    width: 1450px;
+}
+.text3>span{
+    padding-left:40px;
+}
+.text3{
+    padding-left: 80px;
+}
+.text4{
+    padding-left: 130px;
+}
+
+.image3{
+    margin: 25px;
+    display: flex;
+    padding-left: 30px;
+    background-color: rgb(248, 250, 245);
+    height: 230px;
+    width: 1450px;
+}
+.text5>span{
+    padding-left:40px;
+}
+.text5{
+    padding-left: 80px;
+}
+.text6{
+    padding-left: 130px;
+}
+
